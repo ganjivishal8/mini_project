@@ -296,7 +296,7 @@ https://flickity.metafizzy.co
 a.btn.btn-primary {
   color:#fff;
 }
-.close {
+/*.close {
   position:absolute;
   right:-30px;
   top:0;
@@ -305,4 +305,12 @@ a.btn.btn-primary {
   font-weight: normal;
   color:#fff;
   opacity:1;
+}*/
+/*recommend.html css from here*/
+.recommend-container{
+  margin: 0px;
+}
+.recommend-container-title{
+  text-align: center;
+  color: red;
 }
